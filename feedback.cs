@@ -43,7 +43,7 @@ namespace welk
         {
             bunifuMaterialTextbox1.Text = User.Username + " | Feedback System";
             welcome.Text = "Welcome back, " + User.Username + "!";
-            username.Text = "https://discordapp.com/api/webhooks/920766409234063430/wk1Z9NprhLXNq3l7wTLzhrazh4xQ9kSfzZcxagxre_U9Ovfuqor4zExe0Ds4fR5-jqzr";
+            username.Text = ""; //WEBHOOK URL HERE
         }
 
         private void label1_Click(object sender, EventArgs e)
